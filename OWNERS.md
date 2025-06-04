@@ -28,7 +28,7 @@ This page contains all active and inactive TSC members.
 | Marian Schwarz   | [@SchwarzM](https://github.com/SchwarzM)     | SAP SE      |
 | Martin Pink      | [@martinpink](https://github.com/martinpink) | SAP SE      |
 | Michael Schmidt  | [@BugRoger](https://github.com/BugRoger)     | SAP SE      |
-| Uwe Meyer        | [@uwe-mayer](https://github.com/uwe-mayer)   | SAP SE      |
+| Uwe Mayer        | [@uwe-mayer](https://github.com/uwe-mayer)   | SAP SE      |
 
 
 ## Emeritus Members
