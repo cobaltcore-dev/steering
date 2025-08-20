@@ -30,6 +30,12 @@ This page contains all active and inactive TSC members.
 | Michael Schmidt  | [@BugRoger](https://github.com/BugRoger)     | SAP SE      |
 | Uwe Mayer        | [@uwe-mayer](https://github.com/uwe-mayer)   | SAP SE      |
 
+## Security Officers
+
+| Name                | Profile                                        | Affiliation  |
+|---------------------|------------------------------------------------|--------------|
+| Michael Reimsbach   | [@MR2011](https://github.com/MR2011)           | SAP SE       |
+| Lola Apenna         | [@lolaapenna](https://github.com/lolaapenna)   | SAP SE       |
 
 ## Emeritus Members
 | Name | Organization | Github Handle |
